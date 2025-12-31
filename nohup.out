@@ -1,0 +1,6 @@
+usage: crypto_price_checker.py [-h]
+                               [--providers {coingecko,binance,coinbase,kraken} [{coingecko,binance,coinbase,kraken} ...]]
+                               [--delay DELAY] [--json] [--demo] [--watch]
+                               [--interval INTERVAL] [--output OUTPUT]
+                               symbol [base_currency]
+crypto_price_checker.py: error: unrecognized arguments: ...

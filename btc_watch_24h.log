@@ -1,0 +1,1387 @@
+
+============================================================
+  🔄 Starting continuous price monitoring
+  Asset: BTC/USD
+  Interval: 15 seconds
+  CSV File: /Users/admin/Documents/florian/coding/Crypto_PriceDataFetch/btc_usd_24h.csv
+  Providers: CoinGecko, Binance, Coinbase
+============================================================
+  Press Ctrl+C to stop monitoring
+============================================================
+
+  [1] Fetching at 2025-12-31 19:02:32...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,538.16 (2/3 providers)
+
+  [2] Fetching at 2025-12-31 19:02:49...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,553.85 (2/3 providers)
+
+  [3] Fetching at 2025-12-31 19:03:05...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,572.99 (2/3 providers)
+
+  [4] Fetching at 2025-12-31 19:03:22...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,575.30 (2/3 providers)
+
+  [5] Fetching at 2025-12-31 19:03:38... Avg: $87,554.57 (3/3 providers)
+
+  [6] Fetching at 2025-12-31 19:03:55... Avg: $87,572.28 (3/3 providers)
+
+  [7] Fetching at 2025-12-31 19:04:11...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,610.81 (2/3 providers)
+
+  [8] Fetching at 2025-12-31 19:04:28...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,613.88 (2/3 providers)
+
+  [9] Fetching at 2025-12-31 19:04:44...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,616.99 (2/3 providers)
+
+  [10] Fetching at 2025-12-31 19:05:01... Avg: $87,587.92 (3/3 providers)
+
+  [11] Fetching at 2025-12-31 19:05:17... Avg: $87,575.44 (3/3 providers)
+
+  [12] Fetching at 2025-12-31 19:05:33...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,575.97 (2/3 providers)
+
+  [13] Fetching at 2025-12-31 19:05:50...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,577.42 (2/3 providers)
+
+  [14] Fetching at 2025-12-31 19:06:06...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,570.26 (2/3 providers)
+
+  [15] Fetching at 2025-12-31 19:06:23...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,569.65 (2/3 providers)
+
+  [16] Fetching at 2025-12-31 19:06:39... Avg: $87,569.85 (3/3 providers)
+
+  [17] Fetching at 2025-12-31 19:06:56... Avg: $87,568.18 (3/3 providers)
+
+  [18] Fetching at 2025-12-31 19:07:12...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,585.50 (2/3 providers)
+
+  [19] Fetching at 2025-12-31 19:07:29...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,598.16 (2/3 providers)
+
+  [20] Fetching at 2025-12-31 19:07:45...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,646.24 (2/3 providers)
+
+  [21] Fetching at 2025-12-31 19:08:01... Avg: $87,656.67 (3/3 providers)
+
+  [22] Fetching at 2025-12-31 19:08:18... Avg: $87,693.64 (3/3 providers)
+
+  [23] Fetching at 2025-12-31 19:08:34...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,819.93 (2/3 providers)
+
+  [24] Fetching at 2025-12-31 19:08:51...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,825.43 (2/3 providers)
+
+  [25] Fetching at 2025-12-31 19:09:07...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,829.81 (2/3 providers)
+
+  [26] Fetching at 2025-12-31 19:09:23...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,820.00 (2/3 providers)
+
+  [27] Fetching at 2025-12-31 19:09:39... Avg: $87,723.94 (3/3 providers)
+
+  [28] Fetching at 2025-12-31 19:09:56...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,801.72 (2/3 providers)
+
+  [29] Fetching at   ⚠ Rate limited. Ple  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,833.96 (2/3 providers)
+
+  [30] Fetching at   ⚠ Rate limited. Ple  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,842.00 (2/3 providers)
+
+  [31] Fetching at   ⚠ Rate limited. Ple  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,839.96 (2/3 providers)
+
+  [32] Fetching at Avg: $87,808.72 (3/3 prAvg: $87,808.72 (3/3 providers)
+
+  [33] Fetching at Avg: $87,812.20 (3/3 pr  ⚠ Rate limited. Please wait before retrying.
+Avg  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,837.89 (2/3 pr  ⚠ Rate limited. Please wait before retrying.
+Avg  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,843.00 (2/3 pr  ⚠ Rate limited. Please wait before retrying.
+Avg  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,849.34 (2/3 pr  ⚠ Rate limited. Please wait before retrying.
+AvgAvg: $87,821.54 (3/3 providers)
+
+  [39] Fetching at 2025-12-31 19:12:38.AvgAvg: $87,821.98 (3/3 providers)
+
+  [40] Fetching at 2025-12-31 19:12:55.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,851.90 (2/3 providers)
+
+  [41] Fetching at 2025-12-31 19:13:11.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,849.97 (2/3 providers)
+
+  [42] Fetching at 2025-12-31 19:13:27.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,854.10 (2/3 providers)
+
+  [43] Fetching at 2025-12-31 19:13:44.  �Avg: $87,816.30 (3/3 providers)
+
+  [44] Fetching at 2025-12-31 19:14:00... Avg: $87,809.49 (3/3 providers)
+
+  [45] Fetching at 2025-12-31 19:14:17...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,835.80 (2/3 providers)
+
+  [46] Fetching at 2025-12-31 19:14:33.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,834.92 (2/3 providers)
+
+  [47] Fetching at 2025-12-31 19:14:50.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,821.10 (2/3 providers)
+
+  [48] Fetching at 2025-12-31 19:15:06.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,833.11 (2/3 providers)
+
+  [49] Fetching at 2025-12-31 19:15:23.  �Avg: $87,827.82 (3/3 providers)
+
+  [50] Fetching at 2025-12-31 19:15:39... Avg: $87,821.99 (3/3 providers)
+
+  [51] Fetching at 2025-12-31 19:15:56...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,857.45 (2/3 providers)
+
+  [52] Fetching at 2025-12-31 19:16:12.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,873.59 (2/3 providers)
+
+  [53] Fetching at 2025-12-31 19:16:29.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,859.12 (2/3 providers)
+
+  [54] Fetching at 2025-12-31 19:16:46.  �Avg: $87,839.99 (3/3 providers)
+
+  [55] Fetching at 2025-12-31 19:17:02... Avg: $87,831.18 (3/3 providers)
+
+  [56] Fetching at 2025-12-31 19:17:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,864.01 (2/3 providers)
+
+  [57] Fetching at 2025-12-31 19:17:35.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,853.90 (2/3 providers)
+
+  [58] Fetching at 2025-12-31 19:17:51.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,849.45 (2/3 providers)
+
+  [59] Fetching at 2025-12-31 19:18:07.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,845.86 (2/3 providers)
+
+  [60] Fetching at 2025-12-31 19:18:23.  �Avg: $87,819.06 (3/3 providers)
+
+  [61] Fetching at 2025-12-31 19:18:40... Avg: $87,819.97 (3/3 providers)
+
+  [62] Fetching at 2025-12-31 19:18:56...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,827.93 (2/3 providers)
+
+  [63] Fetching at 2025-12-31 19:19:13.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,818.24 (2/3 providers)
+
+  [64] Fetching at 2025-12-31 19:19:29.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,802.02 (2/3 providers)
+
+  [65] Fetching at 2025-12-31 19:19:46.  �Avg: $87,784.21 (3/3 providers)
+
+  [66] Fetching at 2025-12-31 19:20:02... Avg: $87,774.41 (3/3 providers)
+
+  [67] Fetching at 2025-12-31 19:20:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,765.12 (2/3 providers)
+
+  [68] Fetching at 2025-12-31 19:20:35.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,772.39 (2/3 providers)
+
+  [69] Fetching at 2025-12-31 19:20:51.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,793.39 (2/3 providers)
+
+  [70] Fetching at 2025-12-31 19:21:08.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,813.99 (2/3 providers)
+
+  [71] Fetching at 2025-12-31 19:21:24.  �Avg: $87,789.27 (3/3 providers)
+
+  [72] Fetching at 2025-12-31 19:21:41... Avg: $87,796.17 (3/3 providers)
+
+  [73] Fetching at 2025-12-31 19:21:57...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,845.94 (2/3 providers)
+
+  [74] Fetching at 2025-12-31 19:22:14.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,860.74 (2/3 providers)
+
+  [75] Fetching at 2025-12-31 19:22:30.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,861.40 (2/3 providers)
+
+  [76] Fetching at 2025-12-31 19:22:47.  �Avg: $87,813.99 (3/3 providers)
+
+  [77] Fetching at 2025-12-31 19:23:03... Avg: $87,820.88 (3/3 providers)
+
+  [78] Fetching at 2025-12-31 19:23:19...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,858.13 (2/3 providers)
+
+  [79] Fetching at 2025-12-31 19:23:36.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,871.26 (2/3 providers)
+
+  [80] Fetching at 2025-12-31 19:23:52.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,876.19 (2/3 providers)
+
+  [81] Fetching at 2025-12-31 19:24:09.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,866.25 (2/3 providers)
+
+  [82] Fetching at 2025-12-31 19:24:25... Avg: $87,839.75 (3/3 providers)
+
+  [83] Fetching at 2025-12-31 19:24:42... Avg: $87,841.81 (3/3 providers)
+
+  [84] Fetching at 2025-12-31 19:24:58...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,869.37 (2/3 providers)
+
+  [85] Fetching at 2025-12-31 19:25:14.  �  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,858.96 (2/3 providers)
+
+  [86] Fetching at 2025-12-31 19:25:31...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,854.47 (2/3 providers)
+
+  [87] Fetching at 2025-12-31 19:25:47... Avg: $87,845.50 (3/3 providers)
+
+  [88] Fetching at 2025-12-31 19:26:04... Avg: $87,853.68 (3/3 providers)
+
+  [89] Fetching at 2025-12-31 19:26:20... Avg: $87,852.46 (3/3 providers)
+
+  [90] Fetching at 2025-12-31 19:26:37...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,867.69 (2/3 providers)
+
+  [91] Fetching at 2025-12-31 19:26:53...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,865.27 (2/3 providers)
+
+  [92] Fetching at 2025-12-31 19:27:10...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,866.54 (2/3 providers)
+
+  [93] Fetching at 2025-12-31 19:27:26... Avg: $87,850.05 (3/3 providers)
+
+  [94] Fetching at 2025-12-31 19:27:43...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,880.73 (2/3 providers)
+
+  [95] Fetching at 2025-12-31 19:27:59...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,887.67 (2/3 providers)
+
+  [96] Fetching at 2025-12-31 19:28:16...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,899.69 (2/3 providers)
+
+  [97] Fetching at 2025-12-31 19:28:32...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,914.00 (2/3 providers)
+
+  [98] Fetching at 2025-12-31 19:28:48... Avg: $87,882.41 (3/3 providers)
+
+  [99] Fetching at 2025-12-31 19:29:04... Avg: $87,879.34 (3/3 providers)
+
+  [100] Fetching at 2025-12-31 19:29:21...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,906.98 (2/3 providers)
+
+  [101] Fetching at 2025-12-31 19:29:37...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,891.88 (2/3 providers)
+
+  [102] Fetching at 2025-12-31 19:29:53...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,878.53 (2/3 providers)
+
+  [103] Fetching at 2025-12-31 19:30:10...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,876.24 (2/3 p  ⚠ Rate limited. Please wait before retrying.
+Avg: Avg: $87,856.75 (3/3 providers)
+
+  [105] Fetching at 2025-12-31 19:30:43... Avg: $87,849.54 (3/3 providers)
+
+  [106] Fetching at 2025-12-31 19:30:59...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,838.74 (2/3 p  ⚠ Rate limited. Please wait before retrying.
+Avg:   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,839.33 (2/3 p  ⚠ Rate limited. Please wait before retrying.
+Avg:   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,841.23 (2/3 providers)
+
+  [109] Fetching at 2025-12-31 19:31:49... Avg: $87,839.21 (3/3 providers)
+
+  [110] Fetching at 2025-12-31 19:32:0Avg: Avg: $87,846.75 (3/3 providers)
+
+  [111] Fetching at 2025-12-31 19:32:22...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,845.87 (2/3 pAvg: $87,839.24 (3/3 providers)
+
+  [111] Fetching at 2  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,855.99 (2/3 providers)
+
+  [113] Fetching at 2025-12-31 19:32:55...   ⚠ Rate limited. Pl  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,853.57 (2/3 providers)
+
+  [113] Fetching at 2  ⚠ Rate limited. Pl  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,855.10 (2/3 providers)
+
+  [114] Fetching at 2Avg: $87,832.83 (3/3 providers)
+
+  [116] Fetching at 2025-12-31 19:33:44...   ⚠ Rate limited. PlAvg: $87,831.24 (3/3 providers)
+
+  [116] Fetching at 2025-12-31 19:34:00...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,838.86 (2/3 providers)
+
+  [117] Fetching at 2025-12-31 19:34:17...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,832.84 (2/3 providers)
+
+  [118] Fetching at 2025-12-31 19:34:33...   ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,826.44 (2/3 providers)
+
+  [120] FetchingAvg: $87,817.68 (3/3 providers)
+
+  [120] Fetching at 2025-12-31 19:35:06... Avg: $87,811.91 (3/3 providers)
+
+  [121] Fetching at 2025-12-31 19:35:22...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,813.51 (2/3 providers)
+
+  [122] Fetching at 2025-12-31 19:35:39...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,813.23 (2/3 providers)
+
+  [123] Fetching at 2025-12-31 19:35:56...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,806.46 (2/3 providers)
+
+  [124] Fetching at 2025-12-31 19:36:12... Avg: $87,806.67 (3/3 providers)
+
+  [125] Fetching at 2025-12-31 19:36:28...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,829.00 (2/3 providers)
+
+  [126] Fetching at 2025-12-31 19:36:44...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,831.63 (2/3 providers)
+
+  [127] Fetching at 2025-12-31 19:37:01...   ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,828.22 (2/3 providers)
+
+  [129] Fetching  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,844.02 (2/3 providers)
+
+  [129] Fetching at 2025-12-31 19:37:34... Avg: $87,821.35 (3/3 providers)
+
+  [130] Fetching at 2025-12-31 19:37:50...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,836.65 (2/3 providers)
+
+  [131] Fetching at 2025-12-31 19:38:07...   ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,826.19 (2/3 providers)
+
+  [133] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,809.65 (2/3 providers)
+
+  [134] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,809.13 (2/3 providers)
+
+  [135] FetchingAvg: $87,789.31 (3/3 providAvg: $87,789.31 (3/3 providers)
+
+  [136] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,776.46 (2/3 providers)
+
+  [137] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,776.20 (2/3 providers)
+
+  [138] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,777.82 (2/3 providers)
+
+  [139] FetchingAvg: $87,776.21 (3/3 providAvg: $87,776.21 (3/3 providers)
+
+  [140] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,799.97 (2/3 providers)
+
+  [141] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,821.69 (2/3 providers)
+
+  [142] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,829.26 (2/3 providers)
+
+  [143] Fetching  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,821.20 (2/3 providers)
+
+  [143] Fetching at 2025-12-31 19:41:23... Avg: $87,800.35 (3/3 providAvg: $87,800.35 (3/3 providers)
+
+  [145] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,818.52 (2/3 providers)
+
+  [146] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,803.91 (2/3 providers)
+
+  [147] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,808.10 (2/3 providers)
+
+  [148] Fetching  ⚠ Rate limited. Please Avg: $87,789.07 (3/3 providers)
+
+  [149] Fetching at 2025-12-31 19:42:46...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,807.00 (2/3 providers)
+
+  [150] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,784.21 (2/3 providers)
+
+  [151] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,770.25 (2/3 providers)
+
+  [152] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,755.76 (2/3 providers)
+
+  [153] FetchingAvg: $87,758.98 (3/3 providAvg: $87,757.88 (3/3 providers)
+
+  [154] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,763.42 (2/3 providers)
+
+  [155] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,773.94 (2/3 providers)
+
+  [156] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,788.11 (2/3 providers)
+
+  [157] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,800.07 (2/3 providers)
+
+  [158] FetchingAvg: $87,784.99 (3/3 providAvg: $87,784.99 (3/3 providers)
+
+  [159] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,813.09 (2/3 providers)
+
+  [160] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,816.10 (2/3 providers)
+
+  [161] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,802.03 (2/3 providers)
+
+  [162] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,787.21 (2/3 providers)
+
+  [163] FetchingAvg: $87,763.57 (3/3 providAvg: $87,763.57 (3/3 providers)
+
+  [164] Fetching  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,780.87 (2/3 providers)
+
+  [164] Fetching at 2025-12-31 19:47:08...   ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,767.34 (2/3 providers)
+
+  [166] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,750.85 (2/3 providers)
+
+  [167] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,743.00 (2/3 providers)
+
+  [168] FetchingAvg: $87,734.75 (3/3 providAvg: $87,734.75 (3/3 providers)
+
+  [169] Fetching  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,711.64 (2/3 providers)
+
+  [169] Fetching at 2025-12-31 19:48:31...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,703.17 (2/3 providers)
+
+  [170] Fetching at 2025-12-31 19:48:47...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,687.59 (2/3 providers)
+
+  [171] Fetching at 2025-12-31 19:49:04...   ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,702.92 (2/3 providers)
+
+  [173] FetchingAvg: $87,714.86 (3/3 providAvg: $87,714.86 (3/3 providers)
+
+  [174] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,697.59 (2/3 providers)
+
+  [175] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,692.00 (2/3 providers)
+
+  [176] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,684.14 (2/3 providers)
+
+  [177] Fetching  ⚠ Rate limited. Please Avg: $87,676.54 (3/3 providers)
+
+  [178] Fetching at 2025-12-31 19:50:43... Avg: $87,675.14 (3/3 providers)
+
+  [179] Fetching at 2025-12-31 19:50:59...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,663.33 (2/3 providers)
+
+  [180] Fetching at 2025-12-31 19:51:16...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,645.53 (2/3 providers)
+
+  [181] Fetching at 2025-12-31 19:51:32...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,633.17 (2/3 providers)
+
+  [182] Fetching at 2025-12-31 19:51:49... Avg: $87,642.30 (3/3 providers)
+
+  [183] Fetching at 2025-12-31 19:52:05... Avg: $87,634.17 (3/3 providers)
+
+  [184] Fetching at 2025-12-31 19:52:21...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,644.52 (2/3 providers)
+
+  [185] Fetching at 2025-12-31 19:52:38...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,642.16 (2/3 providers)
+
+  [186] Fetching at 2025-12-31 19:52:54...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,637.78 (2/3 providers)
+
+  [187] Fetching at 2025-12-31 19:53:10...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,648.51 (2/3 providers)
+
+  [188] Fetching at 2025-12-31 19:53:26... Avg: $87,647.14 (3/3 providers)
+
+  [189] Fetching at 2025-12-31 19:53:43...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,656.34 (2/3 providers)
+
+  [190] Fetching at 2025-12-31 19:54:00...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,652.26 (2/3 providers)
+
+  [191] Fetching at 2025-12-31 19:54:17...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,648.51 (2/3 providers)
+
+  [192] Fetching at 2025-12-31 19:54:33...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,658.20 (2/3 providers)
+
+  [193] Fetching at 2025-12-31 19:54:49... Avg: $87,643.82 (3/3 providers)
+
+  [194] Fetching at 2025-12-31 19:55:06...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,663.90 (2/3 providers)
+
+  [195] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,670.92 (2/3 providers)
+
+  [196] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,665.65 (2/3 providers)
+
+  [197] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,664.17 (2/3 providers)
+
+  [198] FetchingAvg: $87,646.48 (3/3 providAvg: $87,646.48 (3/3 providers)
+
+  [199] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,660.36 (2/3 providers)
+
+  [200] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,647.13 (2/3 providers)
+
+  [201] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,647.97 (2/3 providers)
+
+  [202] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,662.81 (2/3 providers)
+
+  [203] FetchingAvg: $87,647.98 (3/3 providAvg: $87,647.98 (3/3 providers)
+
+  [204] FetchingAvg: $87,646.18 (3/3 provid  ⚠ Rate limited. Please wait before retrying.
+  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,654.96 (2/3 provid  ⚠ Rate limited. Please wait before retrying.
+  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,649.81 (2/3 provid  ⚠ Rate limited. Please wait before retrying.
+  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,627.63 (2/3 provid  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,619.88 (3/3 providers)
+
+  [208] Fetching at 2025-12-31 19:59:10... Avg: $87,617.20 (3/3 providers)
+
+  [209] Fetching at 2025-12-31 19:59:26...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,623.14 (2/3 provid  ⚠ Rate limited. Please wait before retrying.
+  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,618.03 (2/3 provid  ⚠ Rate limited. Please wait before retrying.
+  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,613.39 (2/3 provid  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,628.10 (3/3 providers)
+
+  [213] Fetching at 2025-12-31 20:00:31... Avg: $87,649.27 (3/3 providers)
+
+  [214] Fetching at 2025-12-31 20:00:48...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,693.98 (2/3 providers)
+
+  [215] Fetching at 2025-12-31 20:01:04...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,709.00 (2/3 providers)
+
+  [216] Fetching at 2025-12-31 20:01:21...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,704.62 (2/3 providers)
+
+  [217] Fetching at 2025-12-31 20:01:37... Avg: $87,663.07 (3/3 providers)
+
+  [218] Fetching at 2025-12-31 20:01:54... Avg: $87,667.40 (3/3 providers)
+
+  [219] Fetching at 2025-12-31 20:02:10...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,695.46 (2/3 providers)
+
+  [220] Fetching at 2025-12-31 20:02:27...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,693.89 (2/3 providers)
+
+  [221] Fetching at 2025-12-31 20:02:44...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,695.93 (2/3 providers)
+
+  [222] Fetching at 2025-12-31 20:03:00... Avg: $87,691.50 (3/3 providers)
+
+  [223] Fetching at 2025-12-31 20:03:17...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,722.05 (2/3 providers)
+
+  [224] Fetching at 2025-12-31 20:03:33...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,731.05 (2/3 providers)
+
+  [225] Fetching at 2025-12-31 20:03:49...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,729.70 (2/3 providers)
+
+  [226] Fetching at 2025-12-31 20:04:06...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,709.66 (2/3 providers)
+
+  [227] Fetching at 2025-12-31 20:04:22... Avg: $87,684.25 (3/3 providers)
+
+  [228] Fetching at 2025-12-31 20:04:38...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,710.94 (2/3 providers)
+
+  [229] Fetching at 2025-12-31 20:04:55...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,722.40 (2/3 providers)
+
+  [230] Fetching at 2025-12-31 20:05:11...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,713.03 (2/3 providers)
+
+  [231] Fetching at 2025-12-31 20:05:28...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,703.31 (2/3 providers)
+
+  [232] Fetching at 2025-12-31 20:05:45... Avg: $87,668.70 (3/3 providers)
+
+  [233] Fetching at 2025-12-31 20:06:01...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,677.55 (2/3 providers)
+
+  [234] Fetching at 2025-12-31 20:06:17...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,669.57 (2/3 providers)
+
+  [235] Fetching at 2025-12-31 20:06:34...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,662.95 (2/3 providers)
+
+  [236] Fetching at 2025-12-31 20:06:50... Avg: $87,660.42 (3/3 providers)
+
+  [237] Fetching at 2025-12-31 20:07:06... Avg: $87,664.24 (3/3 providers)
+
+  [238] Fetching at 2025-12-31 20:07:23...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,679.09 (2/3 providers)
+
+  [239] Fetching at 2025-12-31 20:07:39...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,683.73 (2/3 providers)
+
+  [240] Fetching at 2025-12-31 20:07:55...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,701.82 (2/3 providers)
+
+  [241] Fetching at 2025-12-31 20:08:12... Avg: $87,693.26 (3/3 providers)
+
+  [242] Fetching at 2025-12-31 20:08:28...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,726.89 (2/3 providers)
+
+  [243] Fetching at 2025-12-31 20:08:45...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,735.30 (2/3 providers)
+
+  [244] Fetching at 2025-12-31 20:09:01...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,740.99 (2/3 providers)
+
+  [245] Fetching at 2025-12-31 20:09:17...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,760.27 (2/3 providers)
+
+  [246] Fetching at 2025-12-31 20:09:34... Avg: $87,708.40 (3/3 providers)
+
+  [247] Fetching at 2025-12-31 20:09:50...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,719.21 (2/3 providers)
+
+  [248] Fetching at 2025-12-31 20:10:07...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,714.01 (2/3 providers)
+
+  [249] Fetching at 2025-12-31 20:10:23...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,698.18 (2/3 providers)
+
+  [250] Fetching at 2025-12-31 20:10:40...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,714.71 (2/3 providers)
+
+  [251] Fetching at 2025-12-31 20:10:56... Avg: $87,714.04 (3/3 providers)
+
+  [252] Fetching at 2025-12-31 20:11:12...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,748.77 (2/3 providers)
+
+  [253] Fetching at 2025-12-31 20:11:29...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,754.72 (2/3 providers)
+
+  [254] Fetching at 2025-12-31 20:11:46...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,744.42 (2/3 providers)
+
+  [255] Fetching at 2025-12-31 20:12:02... Avg: $87,733.82 (3/3 providers)
+
+  [256] Fetching at 2025-12-31 20:12:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,775.87 (2/3 providers)
+
+  [257] Fetching at 2025-12-31 20:12:35...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,786.88 (2/3 providers)
+
+  [258] Fetching at 2025-12-31 20:12:51...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,782.67 (2/3 providers)
+
+  [259] Fetching at 2025-12-31 20:13:07...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,803.00 (2/3 providers)
+
+  [260] Fetching at 2025-12-31 20:13:24... Avg: $87,759.17 (3/3 providers)
+
+  [261] Fetching at 2025-12-31 20:13:40...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,774.80 (2/3 providers)
+
+  [262] Fetching at 2025-12-31 20:13:56...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,766.82 (2/3 providers)
+
+  [263] Fetching at 2025-12-31 20:14:13...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,760.23 (2/3 providers)
+
+  [264] Fetching at 2025-12-31 20:14:29... Avg: $87,752.14 (3/3 providers)
+
+  [265] Fetching at 2025-12-31 20:14:46...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,750.14 (2/3 providers)
+
+  [266] Fetching at 2025-12-31 20:15:02...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,733.05 (2/3 providers)
+
+  [267] Fetching at 2025-12-31 20:15:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,718.01 (2/3 providers)
+
+  [268] Fetching at 2025-12-31 20:15:35...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,723.00 (2/3 providers)
+
+  [269] Fetching at 2025-12-31 20:15:51...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,727.50 (2/3 providers)
+
+  [270] Fetching at 2025-12-31 20:16:07...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,733.39 (2/3 providers)
+
+  [271] Fetching at 2025-12-31 20:16:24...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,737.26 (2/3 providers)
+
+  [272] Fetching at 2025-12-31 20:16:40...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,730.11 (2/3 providers)
+
+  [273] Fetching at 2025-12-31 20:16:56... Avg: $87,716.00 (3/3 providers)
+
+  [274] Fetching at 2025-12-31 20:17:13...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,730.11 (2/3 providers)
+
+  [275] Fetching at 2025-12-31 20:17:29...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,731.99 (2/3 providers)
+
+  [276] Fetching at 2025-12-31 20:17:45...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,728.00 (2/3 providers)
+
+  [277] Fetching at 2025-12-31 20:18:02...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,714.87 (2/3 providers)
+
+  [278] Fetching at 2025-12-31 20:18:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,707.84 (2/3 providers)
+
+  [279] Fetching at 2025-12-31 20:18:35...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,714.88 (2/3 providers)
+
+  [280] Fetching at 2025-12-31 20:18:51...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,723.46 (2/3 providers)
+
+  [281] Fetching at 2025-12-31 20:19:08...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,731.50 (2/3 providers)
+
+  [282] Fetching at 2025-12-31 20:19:24...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,728.66 (2/3 providers)
+
+  [283] Fetching at 2025-12-31 20:19:40...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,721.71 (2/3 providers)
+
+  [284] Fetching at 2025-12-31 20:19:57...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,721.71 (2/3 providers)
+
+  [285] Fetching at 2025-12-31 20:20:13...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,725.70 (2/3 providers)
+
+  [286] Fetching at 2025-12-31 20:20:30...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,730.20 (2/3 providers)
+
+  [287] Fetching at 2025-12-31 20:20:47...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,752.07 (2/3 providers)
+
+  [288] Fetching at 2025-12-31 20:21:03...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,741.56 (2/3 providers)
+
+  [289] Fetching at 2025-12-31 20:21:19... Avg: $87,705.12 (3/3 providers)
+
+  [290] Fetching at 2025-12-31 20:21:36...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,713.06 (2/3 providers)
+
+  [291] Fetching at 2025-12-31 20:21:52...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,714.99 (2/3 providers)
+
+  [292] Fetching at 2025-12-31 20:22:08...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,700.51 (2/3 providers)
+
+  [293] Fetching at 2025-12-31 20:22:25... Avg: $87,681.33 (3/3 providers)
+
+  [294] Fetching at 2025-12-31 20:22:41...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,671.78 (2/3 providers)
+
+  [295] Fetching at 2025-12-31 20:22:58...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,652.15 (2/3 providers)
+
+  [296] Fetching at 2025-12-31 20:23:14...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,653.07 (2/3 providers)
+
+  [297] Fetching at 2025-12-31 20:23:31...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,670.05 (2/3 providers)
+
+  [298] Fetching at 2025-12-31 20:23:47...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,688.49 (2/3 providers)
+
+  [299] Fetching at 2025-12-31 20:24:03...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,698.85 (2/3 providers)
+
+  [300] Fetching at 2025-12-31 20:24:20...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,707.57 (2/3 providers)
+
+  [301] Fetching at 2025-12-31 20:24:36...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,707.57 (2/3 providers)
+
+  [302] Fetching at 2025-12-31 20:24:53... Avg: $87,667.97 (3/3 providers)
+
+  [303] Fetching at 2025-12-31 20:25:09...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,666.78 (2/3 providers)
+
+  [304] Fetching at 2025-12-31 20:25:25...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,665.30 (2/3 providers)
+
+  [305] Fetching at 2025-12-31 20:25:42...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,664.86 (2/3 providers)
+
+  [306] Fetching at 2025-12-31 20:25:58... Avg: $87,638.69 (3/3 providers)
+
+  [307] Fetching at 2025-12-31 20:26:15...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,603.42 (2/3 providers)
+
+  [308] Fetching at 2025-12-31 20:26:31...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,617.73 (2/3 providers)
+
+  [309] Fetching at 2025-12-31 20:26:48...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,638.11 (2/3 providers)
+
+  [310] Fetching at 2025-12-31 20:27:04...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,652.04 (2/3 providers)
+
+  [311] Fetching at 2025-12-31 20:27:21...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,669.89 (2/3 providers)
+
+  [312] Fetching at 2025-12-31 20:27:37...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,681.23 (2/3 providers)
+
+  [313] Fetching at 2025-12-31 20:27:54...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,691.97 (2/3 providers)
+
+  [314] Fetching at 2025-12-31 20:28:10...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,687.06 (2/3 providers)
+
+  [315] Fetching at 2025-12-31 20:28:26... Avg: $87,651.04 (3/3 providers)
+
+  [316] Fetching at 2025-12-31 20:28:43...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,682.85 (2/3 providers)
+
+  [317] Fetching at 2025-12-31 20:28:59...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,676.43 (2/3 providers)
+
+  [318] Fetching at 2025-12-31 20:29:15...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,675.54 (2/3 providers)
+
+  [319] Fetching at 2025-12-31 20:29:31... Avg: $87,655.27 (3/3 providers)
+
+  [320] Fetching at 2025-12-31 20:29:49...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,667.97 (2/3 providers)
+
+  [321] Fetching at 2025-12-31 20:30:05...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,679.66 (2/3 providers)
+
+  [322] Fetching at 2025-12-31 20:30:22...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,673.96 (2/3 providers)
+
+  [323] Fetching at 2025-12-31 20:30:38...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,667.06 (2/3 providers)
+
+  [324] Fetching at 2025-12-31 20:30:54... Avg: $87,641.79 (3/3 providers)
+
+  [325] Fetching at 2025-12-31 20:31:11...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,648.70 (2/3 providers)
+
+  [326] Fetching at 2025-12-31 20:31:27...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,657.60 (2/3 providers)
+
+  [327] Fetching at 2025-12-31 20:31:43...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,648.40 (2/3 providers)
+
+  [328] Fetching at 2025-12-31 20:32:00... Avg: $87,624.62 (3/3 providers)
+
+  [329] Fetching at 2025-12-31 20:32:17...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,626.06 (2/3 providers)
+
+  [330] Fetching at 2025-12-31 20:32:33...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,638.84 (2/3 providers)
+
+  [331] Fetching at 2025-12-31 20:32:49...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,647.99 (2/3 providers)
+
+  [332] Fetching at 2025-12-31 20:33:07...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,651.64 (2/3 providers)
+
+  [333] Fetching at 2025-12-31 20:33:24...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,643.72 (2/3 providers)
+
+  [334] Fetching at 2025-12-31 20:33:40...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,642.68 (2/3 providers)
+
+  [335] Fetching at 2025-12-31 20:33:57...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,636.50 (2/3 providers)
+
+  [336] Fetching at 2025-12-31 20:34:14...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,632.15 (2/3 providers)
+
+  [337] Fetching at 2025-12-31 20:34:31...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,628.86 (2/3 providers)
+
+  [338] Fetching at 2025-12-31 20:34:47...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,623.19 (2/3 providers)
+
+  [339] Fetching at 2025-12-31 20:35:04...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,606.00 (2/3 providers)
+
+  [340] Fetching at 2025-12-31 20:35:20...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,603.10 (2/3 providers)
+
+  [341] Fetching at 2025-12-31 20:35:37...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,618.40 (2/3 providers)
+
+  [342] Fetching at 2025-12-31 20:35:53...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,625.14 (2/3 providers)
+
+  [343] Fetching at 2025-12-31 20:36:10...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,624.49 (2/3 providers)
+
+  [344] Fetching at 2025-12-31 20:36:26...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,619.86 (2/3 providers)
+
+  [345] Fetching at 2025-12-31 20:36:43...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,616.72 (2/3 provid  ⚠ Rate limited. Please wait before retrying.
+  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,609.10 (2/3 provid  ⚠ Rate limited. Please wait before retrying.
+  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,613.70 (2/3 provid  ⚠ Rate limited. Please wait before retrying.
+  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,607.92 (2/3 providAvg: $87,597.17 (3/3 providers)
+
+  [350] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,617.76 (2/3 providers)
+
+  [351] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,606.94 (2/3 providers)
+
+  [352] Fetching  ⚠ Rate limited. Please   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,598.48 (2/3 providers)
+
+  [353] Fetching  ⚠ Rate limited. Please Avg: $87,581.75 (3/3 providers)
+
+  [354] Fetching at 2025-12-31 20:39:04...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,568.55 (2/3 providers)
+
+  [355] Fetching at 2025-12-31 20:39:20...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,568.45 (2/3 providers)
+
+  [356] Fetching at 2025-12-31 20:39:36...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,581.64 (2/3 providers)
+
+  [357] Fetching at 2025-12-31 20:39:53... Avg: $87,575.57 (3/3 providers)
+
+  [358] Fetching at 2025-12-31 20:40:09...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,581.22 (2/3 providers)
+
+  [359] Fetching at 2025-12-31 20:40:25...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,582.90 (2/3 providers)
+
+  [360] Fetching at 2025-12-31 20:40:42...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,583.64 (2/3 providers)
+
+  [361] Fetching at 2025-12-31 20:40:58...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,603.49 (2/3 providers)
+
+  [362] Fetching at 2025-12-31 20:41:15... Avg: $87,597.02 (3/3 providers)
+
+  [363] Fetching at 2025-12-31 20:41:31...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,627.97 (2/3 providers)
+
+  [364] Fetching at 2025-12-31 20:41:47...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,615.92 (2/3 providers)
+
+  [365] Fetching at 2025-12-31 20:42:04...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,612.92 (2/3 providers)
+
+  [366] Fetching at 2025-12-31 20:42:20... Avg: $87,601.92 (3/3 providers)
+
+  [367] Fetching at 2025-12-31 20:42:37...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,648.19 (2/3 providers)
+
+  [368] Fetching at 2025-12-31 20:42:53...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,616.03 (2/3 providers)
+
+  [369] Fetching at 2025-12-31 20:43:09...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,615.21 (2/3 providers)
+
+  [370] Fetching at 2025-12-31 20:43:26... Avg: $87,587.52 (3/3 providers)
+
+  [371] Fetching at 2025-12-31 20:43:43...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,579.62 (2/3 providers)
+
+  [372] Fetching at 2025-12-31 20:43:59...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,577.99 (2/3 providers)
+
+  [373] Fetching at 2025-12-31 20:44:15...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,576.31 (2/3 providers)
+
+  [374] Fetching at 2025-12-31 20:44:32... Avg: $87,568.95 (3/3 providers)
+
+  [375] Fetching at 2025-12-31 20:44:48...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,571.32 (2/3 providers)
+
+  [376] Fetching at 2025-12-31 20:45:04...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,574.32 (2/3 providers)
+
+  [377] Fetching at 2025-12-31 20:45:21...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,569.42 (2/3 providers)
+
+  [378] Fetching at 2025-12-31 20:45:37... Avg: $87,564.61 (3/3 providers)
+
+  [379] Fetching at 2025-12-31 20:45:54...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,573.89 (2/3 providers)
+
+  [380] Fetching at 2025-12-31 20:46:10...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,568.80 (2/3 providers)
+
+  [381] Fetching at 2025-12-31 20:46:27...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,564.15 (2/3 providers)
+
+  [382] Fetching at 2025-12-31 20:46:43... Avg: $87,560.83 (3/3 providers)
+
+  [383] Fetching at 2025-12-31 20:47:00...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,596.00 (2/3 providers)
+
+  [384] Fetching at 2025-12-31 20:47:16...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,601.98 (2/3 providers)
+
+  [385] Fetching at 2025-12-31 20:47:33...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,580.83 (2/3 providers)
+
+  [386] Fetching at 2025-12-31 20:47:49...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,583.57 (2/3 providers)
+
+  [387] Fetching at 2025-12-31 20:48:06... Avg: $87,573.51 (3/3 providers)
+
+  [388] Fetching at 2025-12-31 20:48:23...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,618.93 (2/3 providers)
+
+  [389] Fetching at 2025-12-31 20:48:39...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,642.91 (2/3 providers)
+
+  [390] Fetching at 2025-12-31 20:48:55...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,631.63 (2/3 providers)
+
+  [391] Fetching at 2025-12-31 20:49:12... Avg: $87,591.73 (3/3 providers)
+
+  [392] Fetching at 2025-12-31 20:49:29...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,622.81 (2/3 providers)
+
+  [393] Fetching at 2025-12-31 20:49:45...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,619.79 (2/3 providers)
+
+  [394] Fetching at 2025-12-31 20:50:01...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,621.77 (2/3 providers)
+
+  [395] Fetching at 2025-12-31 20:50:18... Avg: $87,589.00 (3/3 providers)
+
+  [396] Fetching at 2025-12-31 20:50:34...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,614.23 (2/3 providers)
+
+  [397] Fetching at 2025-12-31 20:50:50...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,605.11 (2/3 providers)
+
+  [398] Fetching at 2025-12-31 20:51:07...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,601.10 (2/3 providers)
+
+  [399] Fetching at 2025-12-31 20:51:23... Avg: $87,588.78 (3/3 providers)
+
+  [400] Fetching at 2025-12-31 20:51:40...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,596.29 (2/3 providers)
+
+  [401] Fetching at 2025-12-31 20:51:56...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,605.94 (2/3 providers)
+
+  [402] Fetching at 2025-12-31 20:52:13...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,604.67 (2/3 providers)
+
+  [403] Fetching at 2025-12-31 20:52:29...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,604.66 (2/3 providers)
+
+  [404] Fetching at 2025-12-31 20:52:45...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,610.42 (2/3 providers)
+
+  [405] Fetching at 2025-12-31 20:53:02...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,607.34 (2/3 providers)
+
+  [406] Fetching at 2025-12-31 20:53:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,601.80 (2/3 providers)
+
+  [407] Fetching at 2025-12-31 20:53:34...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,588.24 (2/3 providers)
+
+  [408] Fetching at 2025-12-31 20:53:51... Avg: $87,566.88 (3/3 providers)
+
+  [409] Fetching at 2025-12-31 20:54:07...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,571.03 (2/3 providers)
+
+  [410] Fetching at 2025-12-31 20:54:24...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,570.88 (2/3 providers)
+
+  [411] Fetching at 2025-12-31 20:54:41...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,569.66 (2/3 providers)
+
+  [412] Fetching at 2025-12-31 20:54:57... Avg: $87,563.87 (3/3 providers)
+
+  [413] Fetching at 2025-12-31 20:55:13...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,569.42 (2/3 providers)
+
+  [414] Fetching at 2025-12-31 20:55:30...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,529.57 (2/3 providers)
+
+  [415] Fetching at 2025-12-31 20:55:46...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,531.82 (2/3 providers)
+
+  [416] Fetching at 2025-12-31 20:56:03...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,482.96 (2/3 providers)
+
+  [417] Fetching at 2025-12-31 20:56:19...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,490.58 (2/3 providers)
+
+  [418] Fetching at 2025-12-31 20:56:36...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,504.39 (2/3 providers)
+
+  [419] Fetching at 2025-12-31 20:56:52...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,506.99 (2/3 providers)
+
+  [420] Fetching at 2025-12-31 20:57:09...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,504.29 (2/3 providers)
+
+  [421] Fetching at 2025-12-31 20:57:26...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,501.32 (2/3 providers)
+
+  [422] Fetching at 2025-12-31 20:57:42...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,503.80 (2/3 providers)
+
+  [423] Fetching at 2025-12-31 20:57:58...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,509.82 (2/3 providers)
+
+  [424] Fetching at 2025-12-31 20:58:15...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,513.14 (2/3 providers)
+
+  [425] Fetching at 2025-12-31 20:58:31... Avg: $87,498.87 (3/3 providers)
+
+  [426] Fetching at 2025-12-31 20:58:47...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,527.90 (2/3 providers)
+
+  [427] Fetching at 2025-12-31 20:59:04...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,528.81 (2/3 providers)
+
+  [428] Fetching at 2025-12-31 20:59:20...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,518.00 (2/3 providers)
+
+  [429] Fetching at 2025-12-31 20:59:37... Avg: $87,490.96 (3/3 providers)
+
+  [430] Fetching at 2025-12-31 20:59:53...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,491.99 (2/3 providers)
+
+  [431] Fetching at 2025-12-31 21:00:10...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,473.87 (2/3 providers)
+
+  [432] Fetching at 2025-12-31 21:00:26...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,466.71 (2/3 providers)
+
+  [433] Fetching at 2025-12-31 21:00:42... Avg: $87,461.76 (3/3 providers)
+
+  [434] Fetching at 2025-12-31 21:00:59...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,438.18 (2/3 providers)
+
+  [435] Fetching at 2025-12-31 21:01:15...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,438.00 (2/3 providers)
+
+  [436] Fetching at 2025-12-31 21:01:31...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,447.54 (2/3 providers)
+
+  [437] Fetching at 2025-12-31 21:01:48... Avg: $87,431.37 (3/3 providers)
+
+  [438] Fetching at 2025-12-31 21:02:04...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,439.11 (2/3 providers)
+
+  [439] Fetching at 2025-12-31 21:02:20...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,435.61 (2/3 providers)
+
+  [440] Fetching at 2025-12-31 21:02:37...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,447.32 (2/3 providers)
+
+  [441] Fetching at 2025-12-31 21:02:53... Avg: $87,442.62 (3/3 providers)
+
+  [442] Fetching at 2025-12-31 21:03:10...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,459.08 (2/3 providers)
+
+  [443] Fetching at 2025-12-31 21:03:27...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,464.33 (2/3 providers)
+
+  [444] Fetching at 2025-12-31 21:03:43...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,453.54 (2/3 providers)
+
+  [445] Fetching at 2025-12-31 21:03:59... Avg: $87,432.23 (3/3 providers)
+
+  [446] Fetching at 2025-12-31 21:04:16...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,444.25 (2/3 providers)
+
+  [447] Fetching at 2025-12-31 21:04:32...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,445.90 (2/3 providers)
+
+  [448] Fetching at 2025-12-31 21:04:48...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,432.69 (2/3 providers)
+
+  [449] Fetching at 2025-12-31 21:05:05...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,429.82 (2/3 providers)
+
+  [450] Fetching at 2025-12-31 21:05:21...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,439.50 (2/3 providers)
+
+  [451] Fetching at 2025-12-31 21:05:38...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,431.09 (2/3 providers)
+
+  [452] Fetching at 2025-12-31 21:05:54...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,413.91 (2/3 providers)
+
+  [453] Fetching at 2025-12-31 21:06:10... Avg: $87,396.66 (3/3 providers)
+
+  [454] Fetching at 2025-12-31 21:06:27...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,393.35 (2/3 providers)
+
+  [455] Fetching at 2025-12-31 21:06:43...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,386.33 (2/3 providers)
+
+  [456] Fetching at 2025-12-31 21:06:59...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,395.04 (2/3 providers)
+
+  [457] Fetching at 2025-12-31 21:07:15... Avg: $87,386.62 (3/3 providers)
+
+  [458] Fetching at 2025-12-31 21:07:32...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,385.15 (2/3 providers)
+
+  [459] Fetching at 2025-12-31 21:07:48...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,385.15 (2/3 providers)
+
+  [460] Fetching at 2025-12-31 21:08:04...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,381.00 (2/3 providers)
+
+  [461] Fetching at 2025-12-31 21:08:21... Avg: $87,364.66 (3/3 providers)
+
+  [462] Fetching at 2025-12-31 21:08:37...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,382.46 (2/3 providers)
+
+  [463] Fetching at 2025-12-31 21:08:54...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,384.79 (2/3 providers)
+
+  [464] Fetching at 2025-12-31 21:09:11...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,392.54 (2/3 providers)
+
+  [465] Fetching at 2025-12-31 21:09:27... Avg: $87,373.29 (3/3 providers)
+
+  [466] Fetching at 2025-12-31 21:09:44...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,385.08 (2/3 providers)
+
+  [467] Fetching at 2025-12-31 21:10:01...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,384.75 (2/3 providers)
+
+  [468] Fetching at 2025-12-31 21:10:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,379.98 (2/3 providers)
+
+  [469] Fetching at 2025-12-31 21:10:34...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,354.90 (2/3 providers)
+
+  [470] Fetching at 2025-12-31 21:10:51...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,353.73 (2/3 providers)
+
+  [471] Fetching at 2025-12-31 21:11:07...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,353.43 (2/3 providers)
+
+  [472] Fetching at 2025-12-31 21:11:24...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,365.54 (2/3 providers)
+
+  [473] Fetching at 2025-12-31 21:11:40... Avg: $87,369.53 (3/3 providers)
+
+  [474] Fetching at 2025-12-31 21:11:56...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,381.00 (2/3 providers)
+
+  [475] Fetching at 2025-12-31 21:12:12...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,386.90 (2/3 providers)
+
+  [476] Fetching at 2025-12-31 21:12:29...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,395.01 (2/3 providers)
+
+  [477] Fetching at 2025-12-31 21:12:45... Avg: $87,367.33 (3/3 providers)
+
+  [478] Fetching at 2025-12-31 21:13:02...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,381.00 (2/3 providers)
+
+  [479] Fetching at 2025-12-31 21:13:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,378.30 (2/3 providers)
+
+  [480] Fetching at 2025-12-31 21:13:35...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,391.56 (2/3 providers)
+
+  [481] Fetching at 2025-12-31 21:13:51... Avg: $87,378.49 (3/3 providers)
+
+  [482] Fetching at 2025-12-31 21:14:08...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,404.31 (2/3 providers)
+
+  [483] Fetching at 2025-12-31 21:14:24...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,414.67 (2/3 providers)
+
+  [484] Fetching at 2025-12-31 21:14:40...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,436.09 (2/3 providers)
+
+  [485] Fetching at 2025-12-31 21:14:57... Avg: $87,421.29 (3/3 providers)
+
+  [486] Fetching at 2025-12-31 21:15:13...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,467.27 (2/3 providers)
+
+  [487] Fetching at 2025-12-31 21:15:30...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,473.08 (2/3 providers)
+
+  [488] Fetching at 2025-12-31 21:15:47...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,472.78 (2/3 providers)
+
+  [489] Fetching at 2025-12-31 21:16:04... Avg: $87,430.15 (3/3 providers)
+
+  [490] Fetching at 2025-12-31 21:16:20...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,458.29 (2/3 providers)
+
+  [491] Fetching at 2025-12-31 21:16:37...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,455.44 (2/3 providers)
+
+
+  🛑 Stopping monitoring... (saving final data)
+
+  ✅ Monitoring stopped. 491 data points saved to /Users/admin/Documents/florian/coding/Crypto_PriceDataFetch/btc_usd_24h.csv
+
+e retrying.
+Avg: $87,433.37 (2/3 providers)
+
+  [484] Fetching at 2025-12-31 21:14:45...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,436.09 (2/3 providers)
+
+  [485] Fetching at 2025-12-31 21:15:01... Avg: $87,422.47 (3/3 providers)
+
+  [486] Fetching at 2025-12-31 21:15:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,459.87 (2/3 providers)
+
+  [487] Fetching at 2025-12-31 21:15:36...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,462.36 (2/3 providers)
+
+  [488] Fetching at 2025-12-31 21:15:52...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,472.78 (2/3 providers)
+
+  [489] Fetching at 2025-12-31 21:16:08... Avg: $87,430.15 (3/3 providers)
+
+  [490] Fetching at 2025-12-31 21:16:25...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,450.58 (2/3 providers)
+
+  [491] Fetching at 2025-12-31 21:16:41...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,448.03 (2/3 providers)
+
+
+  🛑 Stopping monitoring... (saving final data)
+
+  ✅ Monitoring stopped. 491 data points saved to /U  ⚠ Rate limited. Please wait before retrying.
+Avg: $87,448.30 (2/3 providers)
+
+
+  🛑 Stopping monitoring... (saving final data)
+
+  ✅ Monitoring stopped. 496 data points saved to /Users/admin/Documents/florian/coding/Crypto_PriceDataFetch/btc_usd_24h.csv
+

@@ -1,0 +1,50 @@
+
+============================================================
+  🔄 Starting continuous price monitoring
+  Asset: BTC/USD
+  Interval: 15 seconds
+  CSV File: /Users/admin/Documents/florian/coding/Crypto_PriceDataFetch/btc_usd_prices.csv
+  Providers: CoinGecko, Binance, Coinbase
+============================================================
+  Press Ctrl+C to stop monitoring
+============================================================
+
+  [1] Fetching at 2025-12-31 18:47:29... Avg: $87,546.34 (3/3 providers)
+
+  [2] Fetching at 2025-12-31 18:47:45... Avg: $87,549.21 (3/3 providers)
+
+  [3] Fetching at 2025-12-31 18:48:02...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,582.45 (2/3 providers)
+
+  [4] Fetching at 2025-12-31 18:48:18...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,572.80 (2/3 providers)
+
+  [5] Fetching at 2025-12-31 18:48:34...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,574.07 (2/3 providers)
+
+  [6] Fetching at 2025-12-31 18:48:51...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,579.26 (2/3 providers)
+
+  [7] Fetching at 2025-12-31 18:49:07... Avg: $87,553.80 (3/3 providers)
+
+  [8] Fetching at 2025-12-31 18:49:24... Avg: $87,559.63 (3/3 providers)
+
+  [9] Fetching at 2025-12-31 18:49:40...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,578.09 (2/3 providers)
+
+  [10] Fetching at 2025-12-31 18:49:57...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,559.64 (2/3 providers)
+
+  [11] Fetching at 2025-12-31 18:50:13...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,544.86 (2/3 providers)
+
+  [12] Fetching at 2025-12-31 18:50:30...   ⚠ Rate limited. Please wait before retrying.
+Avg: $87,555.38 (2/3 providers)
+
+  [13] Fetching at 2025-12-31 18:50:46... Avg: $87,538.49 (3/3 providers)
+
+
+  🛑 Stopping monitoring... (saving final data)
+
+  ✅ Monitoring stopped. 13 data points saved to /Users/admin/Documents/florian/coding/Crypto_PriceDataFetch/btc_usd_prices.csv
+
